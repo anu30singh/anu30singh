@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **anushkasinghtech@gmail.com**
 
-- ⚡ Fun fact **Good food and movies make me happy**
+- ⚡ Fun fact **Good food and Movies make me happy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
