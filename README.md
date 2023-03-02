@@ -16,7 +16,6 @@
 <a href="https://twitter.com/anushka3007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anushka3007" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anushka30singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anushka30singh" height="30" width="40" /></a>
 <a href="https://instagram.com/anu_30singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anu_30singh" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/anushkaaa4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anushkaaa4" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anushka30singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anushka30singh" height="30" width="40" /></a>
 </p>
 
