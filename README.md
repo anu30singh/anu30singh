@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **anushkasinghtech@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://shorturl.at/eftF6)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1l8TAmvL_gMg7phO6DvwyIWXQm3-kQIw3/view?usp=drive_link)
 
 - ⚡ Fun fact **Good food and Movies make me happy**
 
