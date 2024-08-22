@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anushka</h1>
 <h3 align="center">IT Undergraduate | MERN Developer | UI/UX Designer</h3>
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
-<p align="left"> 
+
   <img src="https://komarev.com/ghpvc/?username=anu30singh&label=Profile%20views&color=0e75b6&style=flat" alt="anu30singh"/> 
 </p>
 <p align="left"> <a href="https://twitter.com/anushka3007" target="blank"><img src="https://img.shields.io/twitter/follow/anushka3007?logo=twitter&style=for-the-badge" alt="anushka3007" /></a> </p>
