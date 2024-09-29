@@ -84,5 +84,6 @@
 ### 💡 Fun Fact:
 - I love good food and movies—they make me happy!
 
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=anu30singh&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<div align = "center">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=anu30singh&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+</div>  
