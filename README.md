@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anushka</h1>
-<h3 align="center">MERN Developer | UI/UX Designer</h3>
+<h3 align="center">Full-Stack Developer | Passionate about Product Design | Merging Code, Design & Impactful Solutions</h3>
 
   <img src="https://komarev.com/ghpvc/?username=anu30singh&label=Profile%20views&color=0e75b6&style=flat" alt="anu30singh"/> 
 </p>
