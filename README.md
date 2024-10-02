@@ -11,7 +11,7 @@
 - 👩‍💻 **MERN Stack Developer** with experience in creating full-stack applications.
 - 🎨 **UI/UX Designer** with a passion for crafting intuitive and beautiful interfaces.
 - 🏆 **Certified in Product Management and Prompt Design in Vertex AI**.
-- 📄 **Know about my experiences:** [Resume](https://drive.google.com/file/d/1l8TAmvL_gMg7phO6DvwyIWXQm3-kQIw3/view?usp=drive_link)
+- 📄 **Know about my experiences:** [Resume](https://drive.google.com/file/d/1xwb3OeCr5WjGyceqkpehvnqq-C-V5qr3/view?usp=sharing)
 
 ### 🌐 Connect with Me:
 <p align="left">
