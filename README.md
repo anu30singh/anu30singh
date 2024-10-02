@@ -20,6 +20,12 @@
   <a href="https://leetcode.com/u/anushka30singh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anushka30singh" height="30" width="40" /></a>
 </p>
 
+### ✍️ Blog:
+- **Check out my latest posts:** [My Blog](<https://medium.com/@anushka30singh07/unleashing-creativity-exploring-the-power-of-creatie-ai-in-design-and-development-ace12a211327>)
+
+You can find insightful articles on web development, UI/UX design, product management, and more!
+
+
 ### 🛠️ Languages and Tools:
 
 <p align="left">
