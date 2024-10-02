@@ -20,10 +20,7 @@
   <a href="https://leetcode.com/u/anushka30singh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anushka30singh" height="30" width="40" /></a>
 </p>
 
-### ✍️ Blog:
-- **Check out my latest posts:** [My Blog](<https://medium.com/@anushka30singh07/unleashing-creativity-exploring-the-power-of-creatie-ai-in-design-and-development-ace12a211327>)
 
-You can find insightful articles on web development, UI/UX design, product management, and more!
 
 
 ### 🛠️ Languages and Tools:
@@ -89,6 +86,11 @@ You can find insightful articles on web development, UI/UX design, product manag
 
 ### 💡 Fun Fact:
 - I love good food and movies—they make me happy!
+
+### ✍️ Blog:
+- **Check out my latest posts:** [My Blog](<https://medium.com/@anushka30singh07/unleashing-creativity-exploring-the-power-of-creatie-ai-in-design-and-development-ace12a211327>)
+
+You can find insightful articles on web development, UI/UX design, product management, and more!
 
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=anu30singh&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
