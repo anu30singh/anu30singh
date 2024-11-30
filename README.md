@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Anushka</h1>
-<h3 align="center">TPM Intern @Dfy Graviti | Full-Stack Developer | Passionate about Product Design 
-</h3>
+<h3 align="center">TPM Intern @Dfy Graviti • Full-Stack Developer • Product Design </h3>
 
-  <img src="https://komarev.com/ghpvc/?username=anu30singh&label=Profile%20views&color=0e75b6&style=flat" alt="anu30singh"/> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anu30singh&label=Profile%20views&color=0e75b6&style=flat" alt="anu30singh"/>
+  <a href="https://twitter.com/anushka3007" target="blank">
+    <img src="https://img.shields.io/twitter/follow/anushka3007?logo=twitter&style=for-the-badge" alt="anushka3007" />
+  </a>
 </p>
-<p align="left"> <a href="https://twitter.com/anushka3007" target="blank"><img src="https://img.shields.io/twitter/follow/anushka3007?logo=twitter&style=for-the-badge" alt="anushka3007" /></a> </p>
 
+---
 
 ### 🛠️ About Me:
 - 🎓 **IT Undergraduate** at Bhagwan Parshuram Institute of Technology, Delhi, graduating in 2025.
@@ -15,6 +18,8 @@
 - 🎨 **Explore my creative work:** [Portfolio](https://drive.google.com/file/d/1nWAdczI9XcfRUQsFCE6kTFN_aHbB5YHz/view)
 - 📄 **Know about my experiences:** [Resume](https://drive.google.com/file/d/1xwb3OeCr5WjGyceqkpehvnqq-C-V5qr3/view?usp=sharing)
 
+---
+
 ### 🌐 Connect with Me:
 <p align="left">
   <a href="https://twitter.com/anushka3007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anushka3007" height="30" width="40" /></a>
@@ -22,11 +27,9 @@
   <a href="https://leetcode.com/u/anushka30singh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anushka30singh" height="30" width="40" /></a>
 </p>
 
-
-
+---
 
 ### 🛠️ Languages and Tools:
-
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -84,16 +87,16 @@
   </a>
 </p>
 
-
+---
 
 ### 💡 Fun Fact:
 - I love good food and movies—they make me happy!
 
+---
+
 ### ✍️ Blog:
-- **Check out my latest posts:** [My Blog](<https://medium.com/@anushka30singh07/unleashing-creativity-exploring-the-power-of-creatie-ai-in-design-and-development-ace12a211327>)
+- **Check out my latest posts:** [My Blog](https://medium.com/@anushka30singh07/unleashing-creativity-exploring-the-power-of-creatie-ai-in-design-and-development-ace12a211327)
 
-You can find insightful articles on web development, UI/UX design, product management, and more!
+---
 
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=anu30singh&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=anu30singh&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
