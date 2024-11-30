@@ -95,7 +95,7 @@
 ---
 
 ### ✍️ Blog:
-- **Check out my latest posts:** [My Blog](https://medium.com/@anushka30singh07/unleashing-creativity-exploring-the-power-of-creatie-ai-in-design-and-development-ace12a211327)
+- **Check out my latest posts:** [My Blog](https://hashnode.com/@Anu-tech)
 
 ---
 
