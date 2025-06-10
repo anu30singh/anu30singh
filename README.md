@@ -15,7 +15,7 @@
 - 👩‍💻 **MERN Stack Developer** with experience in creating full-stack applications.
 - 🎨 **UI/UX Designer** with a passion for crafting intuitive and beautiful interfaces.
 - 🏆 **Certified in Product Management and Power BI**.
-- 🎨 **Explore my creative work:** [Portfolio](https://drive.google.com/file/d/1nWAdczI9XcfRUQsFCE6kTFN_aHbB5YHz/view)
+- 🎨 **Explore my creative work:** [Portfolio](https://portfolio72.odoo.com/)
 - 📄 **Know about my experiences:** [Resume](https://drive.google.com/file/d/1Zs1rVelT0ywO98o7Itqn7QYsXAjHiGd7/view?usp=sharing)
 
 ---
