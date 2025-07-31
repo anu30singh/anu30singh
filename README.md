@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anushka</h1>
-<h3 align="center">SDE  @Dfy Graviti • Full-Stack Developer </h3>
+<h3 align="center">SDE  @Dfy Graviti • Software Developer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anu30singh&label=Profile%20views&color=0e75b6&style=flat" alt="anu30singh"/>
@@ -16,7 +16,6 @@
 - 🎨 **UI/UX Designer** with a passion for crafting intuitive and beautiful interfaces.
 - 🏆 **Certified in Product Management and Power BI**.
 - 🎨 **Explore my creative work:** [Portfolio](https://portfolio72.odoo.com/)
-- 📄 **Know about my experiences:** [Resume](https://drive.google.com/file/d/1Zs1rVelT0ywO98o7Itqn7QYsXAjHiGd7/view?usp=sharing)
 
 ---
 
@@ -24,7 +23,6 @@
 <p align="left">
   <a href="https://twitter.com/anushka3007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anushka3007" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/anushka30singh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anushka30singh" height="30" width="40" /></a>
-  <a href="https://leetcode.com/u/anushka30singh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anushka30singh" height="30" width="40" /></a>
 </p>
 
 ---
