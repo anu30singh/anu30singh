@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anushka</h1>
-<h3 align="center">SDE  @Dfy Graviti • Software Developer </h3>
+<h3 align="center">SDE  @Dfy Graviti • Engineering Thoughtful Interfaces  </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anu30singh&label=Profile%20views&color=0e75b6&style=flat" alt="anu30singh"/>
