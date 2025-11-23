@@ -11,11 +11,11 @@
 ---
 
 ### 🛠️ About Me:
-- 🎓 **IT Undergraduate** at Bhagwan Parshuram Institute of Technology, Delhi, graduating in 2025.
+- 🎓 **IT Undergraduate** at Bhagwan Parshuram Institute of Technology, Delhi, graduated in 2025.
 - 👩‍💻 **MERN Stack Developer** with experience in creating full-stack applications.
 - 🎨 **UI/UX Designer** with a passion for crafting intuitive and beautiful interfaces.
 - 🏆 **Certified in Product Management and Power BI**.
-- 🎨 **Explore my creative work:** [Portfolio](https://portfolio72.odoo.com/)
+
 
 ---
 
