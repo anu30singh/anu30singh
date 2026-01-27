@@ -39,7 +39,7 @@ const anushka = {
         devOps: ["Docker", "Linux", "GitLab", "Git"]
     },
     problemSolver: "300+ DSA problems solved 🧠",
-    funFact: "I deploy with Docker and debug with determination 🚀"
+    funFact: "All it takes is Good Food and a Good Movie"
 };
 ```
 
