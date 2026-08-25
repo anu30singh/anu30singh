@@ -254,7 +254,6 @@ Topics include:
 2026  →  Exploring observability + developer tooling
 2026  →  Learning DuckDB + Parquet for analytics
 2026  →  Exploring GitHub Actions + CI/CD
-2026  →  Building DevLens
 2025  →  Graduated with B.Tech in Information Technology
 2025  →  Started professional software development
 ```
