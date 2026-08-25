@@ -26,8 +26,8 @@
 │                                                             │
 │  Currently building → software + data systems               │
 │  Currently learning → backend engineering + Go              │
-│  Currently curious about → observability & distributed      │
-│                              systems                         │
+│  Currently curious about → observability &distributed       │
+│                             systems                         │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -105,7 +105,7 @@ Now I'm increasingly interested in what happens **behind the UI**:
                           ▼
                   ┌──────────────┐
                   │ Observability│
-                  │ Logs / Metrics│
+                  │ Logs         │
                   │ Traces       │
                   └──────────────┘
 ```
