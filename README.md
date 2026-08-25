@@ -153,7 +153,6 @@ I'm especially interested in building software where **the data tells you what i
 ### `engineering/`
 
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-EF4444?style=flat-square\&logo=bull\&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square\&logo=opentelemetry\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square\&logo=figma\&logoColor=white)
